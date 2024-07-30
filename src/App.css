@@ -1,0 +1,12 @@
+/* src/App.css */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(90deg, #00c6ff, #0072ff);
+}
+
+.pricing-cards {
+  display:flex;
+}
